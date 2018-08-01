@@ -1,0 +1,4 @@
+# hide aws info
+aws-keys.json
+
+node_modules
